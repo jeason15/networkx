@@ -56,3 +56,6 @@ networkx.egg-info/
 
 # Virtual environment directory
 networkx-dev/
+
+# Modified requirements to enable build and test from source
+requirements/
